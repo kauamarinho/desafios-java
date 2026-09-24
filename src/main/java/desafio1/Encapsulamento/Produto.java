@@ -1,4 +1,4 @@
-package desafio1;
+package desafio1.Encapsulamento;
 
 public class Produto {
 
