@@ -50,6 +50,7 @@ public abstract class Audio implements Reproduzivel, Classificavel {
     // Repare: NAO existe setCurtidas nem setTotalReproducoes.
     // O estado so muda por comportamentos (curtir/reproduzir), que garantem regras validas.
     // Ninguem consegue, por exemplo, colocar curtidas = -50.
+
     public void curtir() {
         curtidas++;
     }

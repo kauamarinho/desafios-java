@@ -31,6 +31,7 @@ public class Podcast extends Audio {
 
     // SOBRESCRITA (@Override) + super: reaproveita o comportamento do pai
     // (contar reproducao e imprimir "Tocando") e ACRESCENTA algo so do podcast.
+
     @Override
     public void reproduzir() {
         super.reproduzir();
@@ -39,6 +40,7 @@ public class Podcast extends Audio {
 
     // POLIMORFISMO: a mesma pergunta (getClassificacao) tem outra resposta aqui.
     // Podcast e avaliado pelas CURTIDAS, nao pelas reproducoes.
+
     @Override
     public int getClassificacao() {
         int likes = getCurtidas();

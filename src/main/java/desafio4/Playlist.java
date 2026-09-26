@@ -14,6 +14,8 @@ public class Playlist implements Reproduzivel {
 
     private final List<Audio> audios = new ArrayList<>();
 
+    // construtor
+
     public Playlist(String nome) {
         this.nome = nome;
     }
