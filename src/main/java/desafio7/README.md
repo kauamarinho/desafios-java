@@ -193,31 +193,31 @@ Depois:
 ```text
 src/
 ├── exercicio1/
-│   └── Main.java
+│   └── desafio8.Main.java
 │
 ├── exercicio2/
 │   ├── Animal.java
 │   ├── Cachorro.java
-│   └── Main.java
+│   └── desafio8.Main.java
 │
 ├── exercicio3/
 │   ├── Animal.java
 │   ├── Cachorro.java
-│   └── Main.java
+│   └── desafio8.Main.java
 │
 ├── exercicio4/
 │   ├── Produto.java
-│   └── Main.java
+│   └── desafio8.Main.java
 │
 ├── exercicio5/
 │   ├── Forma.java
 │   ├── Circulo.java
 │   ├── Quadrado.java
-│   └── Main.java
+│   └── desafio8.Main.java
 │
 └── exercicio6/
     ├── ContaBancaria.java
-    └── Main.java
+    └── desafio8.Main.java
 ```
 
 ---

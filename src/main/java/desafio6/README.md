@@ -143,7 +143,7 @@ Depois:
 src/
 ├── Produto.java
 ├── ProdutoPerecivel.java
-└── Main.java
+└── desafio8.Main.java
 ```
 
 ---
